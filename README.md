@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-13 20:30 CST）
+## API 状态（最近更新：2025-10-14 00:18 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：74
@@ -111,8 +111,8 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ❌ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 86 | 14 | 86.0% | 2 |
-| ❌ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 85 | 15 | 85.0% | 2 |
+| 🚨 | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 85 | 15 | 85.0% | 3 |
+| 🚨 | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 84 | 16 | 84.0% | 3 |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
 
