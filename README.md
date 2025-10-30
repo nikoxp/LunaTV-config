@@ -21,14 +21,14 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-30 12:17 CST）
+## API 状态（最近更新：2025-10-30 16:20 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：74
-- 失败 API 数量：3
+- 成功 API 数量：72
+- 失败 API 数量：5
 - 平均可用率：97.3%
-- 完美可用率（100%）：53 个
-- 高可用率（80%-99%）：21 个
+- 完美可用率（100%）：51 个
+- 高可用率（80%-99%）：23 个
 - 中等可用率（50%-79%）：2 个
 - 低可用率（<50%）：1 个
 
@@ -69,7 +69,6 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-最大点播 | https://zuidazy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-最大资源 | https://api.zuidapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-天涯影视 | https://tyyszy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -87,7 +86,6 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-souavZY | https://api.souavzy.vip/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -97,22 +95,24 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ❌ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | TV-极速资源 | https://jszyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ❌ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 77 | 23 | 77.0% | 23 |
-| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 53 | 47 | 53.0% | 47 |
+| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 76 | 24 | 76.0% | 24 |
+| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 52 | 48 | 52.0% | 48 |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
 
