@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-16 12:21 CST）
+## API 状态（最近更新：2025-11-16 16:18 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：74
@@ -100,10 +100,10 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
