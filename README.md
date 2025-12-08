@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-08 20:32 CST）
+## API 状态（最近更新：2025-12-09 00:21 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：72
@@ -106,11 +106,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-桃花资源 | https://thzy1.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ✅ | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 90 | 10 | 90.0% | 8 |
+| 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 89 | 11 | 89.0% | 9 |
 | ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 36 | 64 | 36.0% | 0 |
-| 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 27 | 73 | 27.0% | 73 |
+| 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 26 | 74 | 26.0% | 74 |
 | 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
