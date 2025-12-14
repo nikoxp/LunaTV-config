@@ -21,16 +21,16 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-14 04:18 CST）
+## API 状态（最近更新：2025-12-14 09:18 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：59
-- 失败 API 数量：18
+- 成功 API 数量：72
+- 失败 API 数量：5
 - 平均可用率：92.7%
 - 完美可用率（100%）：44 个
 - 高可用率（80%-99%）：27 个
-- 中等可用率（50%-79%）：1 个
-- 低可用率（<50%）：5 个
+- 中等可用率（50%-79%）：2 个
+- 低可用率（<50%）：4 个
 
 <div style="font-size: 11px;">
 
@@ -96,20 +96,20 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-桃花资源 | https://thzy1.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-大地资源 | https://dadiapi.com/feifei2 | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | TV-优质资源 | https://api.yzzy-api.com/inc/apijson.php | 96 | 4 | 96.0% | 1 |
-| ❌ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | TV-电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 58 | 42 | 58.0% | 40 |
-| ❌ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 49 | 51 | 49.0% | 1 |
+| ✅ | AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-大地资源 | https://dadiapi.com/feifei2 | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | TV-优质资源 | https://api.yzzy-api.com/inc/apijson.php | 96 | 4 | 96.0% | 0 |
+| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | TV-电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 57 | 43 | 57.0% | 41 |
+| ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 50 | 50 | 50.0% | 0 |
 | 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
