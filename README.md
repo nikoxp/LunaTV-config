@@ -21,12 +21,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-25 04:17 CST）
+## API 状态（最近更新：2025-12-25 09:13 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：70
 - 失败 API 数量：7
-- 平均可用率：91.6%
+- 平均可用率：91.5%
 - 完美可用率（100%）：43 个
 - 高可用率（80%-99%）：28 个
 - 中等可用率（50%-79%）：0 个
@@ -105,10 +105,10 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | AV-桃花资源 | https://thzy1.me/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 90 | 10 | 90.0% | 8 |
 | ✅ | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
+| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 89 | 11 | 89.0% | 9 |
 | ✅ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | AV-souavZY | https://api.souavzy.vip/api.php/provide/vod | 41 | 59 | 41.0% | 59 |
+| 🚨 | AV-souavZY | https://api.souavzy.vip/api.php/provide/vod | 40 | 60 | 40.0% | 60 |
 | 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
