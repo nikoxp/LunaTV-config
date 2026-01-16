@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-16 04:19 CST）
+## API 状态（最近更新：2026-01-16 09:16 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：72
-- 失败 API 数量：5
+- 成功 API 数量：71
+- 失败 API 数量：6
 - 平均可用率：92.4%
 - 完美可用率（100%）：44 个
 - 高可用率（80%-99%）：28 个
@@ -94,18 +94,18 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-优质资源 | https://api.yzzy-api.com/inc/apijson.php | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-天涯影视 | https://tyyszy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ❌ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
