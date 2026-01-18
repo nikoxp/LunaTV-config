@@ -21,14 +21,14 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-19 00:19 CST）
+## API 状态（最近更新：2026-01-19 04:17 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：72
 - 失败 API 数量：5
 - 平均可用率：92.8%
-- 完美可用率（100%）：49 个
-- 高可用率（80%-99%）：23 个
+- 完美可用率（100%）：50 个
+- 高可用率（80%-99%）：22 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：5 个
 
@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-极速资源 | https://jszyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | TV-猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-索尼资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -92,7 +93,6 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-最大点播 | https://zuidazy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-最大资源 | https://api.zuidapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-速播资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
